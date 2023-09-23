@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaragemAdmDesktop", "GaragemAdmDesktop.csproj", "{D7C52F4D-9B4C-4B32-B1F7-7ECDED0C0B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "..\DAO\DAO.csproj", "{ACC696DA-EFFE-4B72-B5FB-304D3D79470F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C52F4D-9B4C-4B32-B1F7-7ECDED0C0B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C52F4D-9B4C-4B32-B1F7-7ECDED0C0B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C52F4D-9B4C-4B32-B1F7-7ECDED0C0B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C52F4D-9B4C-4B32-B1F7-7ECDED0C0B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC696DA-EFFE-4B72-B5FB-304D3D79470F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC696DA-EFFE-4B72-B5FB-304D3D79470F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC696DA-EFFE-4B72-B5FB-304D3D79470F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC696DA-EFFE-4B72-B5FB-304D3D79470F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D5B53D3-4BAF-4C22-A96F-6EB4A36A1289}
+	EndGlobalSection
+EndGlobal
